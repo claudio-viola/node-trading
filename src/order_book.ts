@@ -17,6 +17,6 @@ const INITIAL_FUND_CURRENCY_CODE = 'EUR';
     process.exit(0)
   } catch (err) {
     console.log(err)
-    throw err
+    process.exit(1)
   }
 })()
