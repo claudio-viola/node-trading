@@ -1,0 +1,14 @@
+version: '3.3'
+services:
+#DEPENDENCIES
+ mysql:
+   container_name: mysql
+   image: mysql:5.6.29
+   restart: always
+   ports:
+     - "3306:3306"
+   environment:
+     MYSQL_ROOT_PASSWORD: test
+     MYSQL_DATABASE: hexel_db
+     MYSQL_USER: root
+     MYSQL_PASSWORD: test

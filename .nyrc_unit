@@ -1,0 +1,25 @@
+{
+ "check-coverage": true,
+ "per-file": true,
+ "lines": 99,
+ "statements": 99,
+ "functions": 99,
+ "branches": 99,
+ "include": [
+   "src/**/*.ts",
+   "src/**/*.tsx"
+ ],
+ "extension": [
+   ".ts",
+   ".tsx"
+ ],
+ "require": [
+   "ts-node/register"
+ ],
+ "reporter": [
+   "text",
+   "html"
+ ],
+ "sourceMap": true,
+ "instrument": true
+}
