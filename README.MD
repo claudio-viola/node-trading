@@ -46,3 +46,4 @@ INDEX_API_ENDPOINT=http://localhost/index/
 [ ] Linking models relationships  
 [ ] Exposing functionality via api endpoint  
 [ ] Adapt code for task 2  
+[ ] TSDocs
