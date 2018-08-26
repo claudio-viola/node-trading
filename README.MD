@@ -33,11 +33,11 @@ It will connect to endpoint or use static index data file in order to generate a
 
 
 ### TODO
-[ ] Unit and integration Testing
-[ ] Command line interface , accepting parameters
-[ ] Storing fund information by currency, portfolio allocation
-[ ] Caching of currencies data
-[ ] Some functions refactoring  SRP principles
-[ ] Linking models relationships
-[ ] Exposing functionality via api endpoint
-[ ] Adapt code for task 2
+[ ] Unit and integration Testing  
+[ ] Command line interface , accepting parameters  
+[ ] Storing fund information by currency, portfolio allocation  
+[ ] Caching of currencies data  
+[ ] Some functions refactoring  SRP principles  
+[ ] Linking models relationships  
+[ ] Exposing functionality via api endpoint  
+[ ] Adapt code for task 2  
